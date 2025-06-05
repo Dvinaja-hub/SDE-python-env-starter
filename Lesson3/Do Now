@@ -1,0 +1,4 @@
+favorite_season = 'winter'
+favorite_temperture = '20'
+
+print(
